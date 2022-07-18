@@ -1,5 +1,5 @@
 {
-"newVersion": "1.2.0",
+"newVersion": "3.2.5",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.zero",
 "versionNotes":"
 • ZAYN WINCHESTER
