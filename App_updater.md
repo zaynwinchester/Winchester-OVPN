@@ -1,1 +1,1 @@
-{ "newVersion": "3.2.8", "apkUrl": "https://www.mediafire.com/file/wkzmz7roexbdtx2/Winchester_VPN_Pro_v3.2.8.apk/file", "versionNotes":"• New User Interface (UI) \n• Check IP is now supported to Android 11 & 12 \n• Added Add Timer (5hrs per-addTime) \n• Fixed Minor Bugs " }
+{ "newVersion": "3.2.7", "apkUrl": "https://www.mediafire.com/file/gt6pm540kyu7g94/Winchester_VPN_Pro_v3.2.7.apk/file", "versionNotes":"• May PROBLEMA sa New Update, pasensya.. idownload nalang po ulit at gamitin ang previous App Version \n• Mag hintay nalang ulit sa bagong Update, THANK YOU " }
