@@ -1,1 +1,1 @@
-{ "newVersion": "3.2.8", "apkUrl": "https://www.mediafire.com/file/wkzmz7roexbdtx2/Winchester_VPN_Pro_v3.2.8.apk/file", "versionNotes":"• New User Interface (UI) \n• Check IP is now supported to Android 11 & 12 \n• Added Add Timer (5hrs per-addTime) \n• Fixed minor bugs" }
+{ "newVersion": "3.2.9", "apkUrl": "https://www.mediafire.com/file/v6bpaa4bmvo8yjw/Winchester_VPN_Pro_v3.2.9.apk/file", "versionNotes":"• New User Interface (UI)\n• Added VPN Log\n• Fixed minor bugs in Add Timer" }
