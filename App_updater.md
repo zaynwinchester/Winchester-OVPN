@@ -1,1 +1,1 @@
-{ "newVersion": "3.2.9", "apkUrl": "https://www.mediafire.com/file/v6bpaa4bmvo8yjw/Winchester_VPN_Pro_v3.2.9.apk/file", "versionNotes":"• New User Interface (UI)\n• Added VPN Log\n• Fixed minor bugs in Add Timer" }
+{ "newVersion": "3.3.0", "apkUrl": "https://www.mediafire.com/file/q1ku0b8tz7019t7/Winchester_VPN_Pro_v3.3.0.apk/file", "versionNotes":"• New User Interface (UI)\n• Removed VPN Log\n• Removed ADD TIMER\n• Fixed minor bugs in Add Timer" }
